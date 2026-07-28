@@ -1,6 +1,6 @@
-# Hi, I'm Sukhman Arora 👋
+# Hi, I'm Sukhman Arora 
 
-**B.Tech AI & Machine Learning** student at Amity University, Punjab (CGPA: **8.73**)  
+**B.Tech AI & Machine Learning** student at Amity University, Punjab (CGPA: **8.78**)  
 ML/NLP Developer Intern @ Infosys Springboard | Building production-grade AI systems
 
 I specialise in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
@@ -8,7 +8,7 @@ I focus on turning models into useful, end-to-end systems — from research to d
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Key Results | Tech |
 |---------|-------------|-------------|------|
@@ -16,11 +16,11 @@ I focus on turning models into useful, end-to-end systems — from research to d
 | **[Speech Emotion + Speaker ID](https://github.com/SArora2712/Speech-Emotion-Speaker_Identification_5351)** | Real-time speech emotion recognition + speaker identification | **88.98%** emotion accuracy (Wav2Vec 2.0) · **94%** speaker ID (SVM) | PyTorch · Wav2Vec 2.0 · Librosa · Scikit-learn |
 | **[ReviewSense](https://github.com/SArora2712/Infosys_ReviewSense)** | End-to-end NLP pipeline for customer review intelligence | Actionable sentiment + keyword insights from large unstructured feedback | TF-IDF · NLTK · Sentiment Analysis · Streamlit |
 | **[Context-Aware Article Summarizer](https://github.com/SArora2712/article_Summarizer)** | Audience-adaptive extractive summarizer (4 user profiles) | Live Streamlit app (TXT/PDF/DOCX) + WordCloud + PDF export | TextRank · TF-IDF · NLTK · Streamlit |
-| **AI Text Prediction (Research)** | Benchmarking N-gram, RNN, LSTM & Transformer architectures | Research paper submitted for faculty publication review | Deep Learning · NLP · Statistical Modelling |
+
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Languages**  
 `Python` · `C++` · `SQL` · `Java` (Basic)
@@ -36,7 +36,7 @@ I focus on turning models into useful, end-to-end systems — from research to d
 
 ---
 
-### 💼 Experience
+###  Experience
 
 **Machine Learning & NLP Developer Intern**  
 *Infosys Springboard Virtual Internship* · 2026 – 2026
@@ -47,7 +47,7 @@ I focus on turning models into useful, end-to-end systems — from research to d
 
 ---
 
-### 🏆 Achievements & Certifications
+###  Achievements & Certifications
 
 - Built production RAG chatbot independently (LangChain + ChromaDB + multi-provider LLMs)
 - **88.98%** speech emotion recognition accuracy & **94%** speaker identification accuracy
