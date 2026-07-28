@@ -1,48 +1,69 @@
-# Hi, I'm Sukhman 
+# Hi, I'm Sukhman Arora 👋
 
-I'm a third-year B.Tech student specialising in AI & Machine Learning at Amity University Punjab. Most of my time goes into building NLP systems, training deep learning models, and figuring out how to make them actually useful.
+**B.Tech AI & Machine Learning** student at Amity University, Punjab (CGPA: **8.73**)  
+ML/NLP Developer Intern @ Infosys Springboard | Building production-grade AI systems
 
-Currently working as an ML/NLP Developer Intern at **Infosys Springboard**, where I built ReviewSense — a feedback analysis pipeline that extracts sentiment trends and business insights from large customer review datasets.
-
----
-
-### What I've built
-
-**Speech Emotion Recognition** — Fine-tuned Wav2Vec 2.0 on RAVDESS for 8-class emotion classification. Hit 88.98% accuracy, which beat the CNN baseline by 6+ points. Also built a speaker identification module (SVM + MFCC) on a custom dataset that got to 94%. The whole pipeline runs in real-time from a mic.
-
-**Article Summariser** — A deployed Streamlit app that adapts summaries for four audience types (technical, general, executive, student) using TextRank + TF-IDF cosine similarity. Takes TXT, PDF, or DOCX as input. Live and publicly accessible.
-
-**ReviewSense** — NLP pipeline built during my Infosys internship. Processes large customer review datasets and surfaces product-level sentiment trends, keyword patterns, and structured BI reports using TF-IDF analysis.
-
-**AI Text Prediction** — Independent research benchmarking N-gram, RNN, LSTM, and Transformer architectures for next-token prediction. Writing this up as a research paper for faculty submission.
+I specialise in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
+I focus on turning models into useful, end-to-end systems — from research to deployment.
 
 ---
 
-### Tech I work with
+### 🚀 Featured Projects
 
-```
-Languages   →  Python · C++ · Java · SQL
-ML / DL     →  PyTorch · Scikit-learn · TensorFlow · Wav2Vec 2.0
-NLP         →  NLTK · TF-IDF · TextRank · Sentiment Analysis · HuggingFace
-Gen AI      →  LangChain · RAG Pipelines · Prompt Engineering · GPT/Claude APIs
-Tools       →  Pandas · NumPy · Matplotlib · Librosa · Streamlit · Flask · Git
-```
-
----
-
-### Currently
-
--  Finishing my AI Text Prediction research paper
--  Building a RAG-based document assistant using LangChain + ChromaDB
--  Open to AI/ML and NLP internship opportunities
+| Project | Description | Key Results | Tech |
+|---------|-------------|-------------|------|
+| **[RAG Document Q&A Chatbot](https://github.com/SArora2712)** | Retrieval-Augmented Generation chatbot grounded in custom documents | Multi-LLM (OpenAI + Gemini), ChromaDB vector store, zero hallucination focus | LangChain · ChromaDB · OpenAI · Gemini |
+| **[Speech Emotion + Speaker ID](https://github.com/SArora2712/Speech-Emotion-Speaker_Identification_5351)** | Real-time speech emotion recognition + speaker identification | **88.98%** emotion accuracy (Wav2Vec 2.0) · **94%** speaker ID (SVM) | PyTorch · Wav2Vec 2.0 · Librosa · Scikit-learn |
+| **[ReviewSense](https://github.com/SArora2712/Infosys_ReviewSense)** | End-to-end NLP pipeline for customer review intelligence | Actionable sentiment + keyword insights from large unstructured feedback | TF-IDF · NLTK · Sentiment Analysis · Streamlit |
+| **[Context-Aware Article Summarizer](https://github.com/SArora2712/article_Summarizer)** | Audience-adaptive extractive summarizer (4 user profiles) | Live Streamlit app (TXT/PDF/DOCX) + WordCloud + PDF export | TextRank · TF-IDF · NLTK · Streamlit |
+| **AI Text Prediction (Research)** | Benchmarking N-gram, RNN, LSTM & Transformer architectures | Research paper submitted for faculty publication review | Deep Learning · NLP · Statistical Modelling |
 
 ---
 
-### Connect
+### 🛠 Tech Stack
 
- sukhmanarora01@gmail.com  
- [linkedin.com/in/sukhman-arora-45b5272b6](https://linkedin.com/in/sukhman-arora-45b5272b6)
+**Languages**  
+`Python` · `C++` · `SQL` · `Java` (Basic)
+
+**Machine Learning & Deep Learning**  
+`PyTorch` · `Scikit-learn` · `Wav2Vec 2.0` · `Transfer Learning` · `Hyperparameter Tuning`
+
+**NLP & Generative AI**  
+`LangChain` · `RAG Pipelines` · `ChromaDB` · `HuggingFace` · `OpenAI API` · `Google Gemini` · `Prompt Engineering` · `TF-IDF` · `TextRank` · `NLTK`
+
+**Tools & Deployment**  
+`Streamlit` · `Git` · `Pandas` · `NumPy` · `Matplotlib` · `Librosa` · `Jupyter` · `AWS Cloud Foundations`
 
 ---
 
-*CGPA 8.78 · Amity University Punjab · Batch of 2027*
+### 💼 Experience
+
+**Machine Learning & NLP Developer Intern**  
+*Infosys Springboard Virtual Internship* · 2026 – 2026
+
+- Built **ReviewSense** — full NLP pipeline that turns thousands of unstructured customer reviews into structured business insights and sentiment trends.
+- Developed TF-IDF keyword extraction that replaced manual analysis workflows.
+- Delivered stakeholder-ready intelligence reports.
+
+---
+
+### 🏆 Achievements & Certifications
+
+- Built production RAG chatbot independently (LangChain + ChromaDB + multi-provider LLMs)
+- **88.98%** speech emotion recognition accuracy & **94%** speaker identification accuracy
+- Research paper *AI Text Prediction* submitted for faculty publication review
+- HackOrbit Hackathon — Selected for Final Round (ML innovation)
+- Infosys Certified Data Science Foundation
+- AWS Academy Cloud Foundations Graduate
+
+---
+
+### 📫 Connect
+
+- 📧 [sukhmanarora01@gmail.com](mailto:sukhmanarora01@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sukhman-arora-45b5272b6)
+- 📍 Mohali, Punjab
+
+---
+
+**Open to AI/ML & NLP internship opportunities** where I can ship real impact.
