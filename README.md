@@ -1,69 +1,50 @@
-# Hi, I'm Sukhman Arora 
+# Hi, I'm Sukhman Arora
 
-**B.Tech AI & Machine Learning** student at Amity University, Punjab (CGPA: **8.78**)  
-ML/NLP Developer Intern @ Infosys Springboard | Building production-grade AI systems
+Final-year **B.Tech CSE (AI & ML)** student at Amity University Punjab (CGPA 8.78).
+I build LLM-powered systems end to end: multi-agent workflows, RAG pipelines, explainable ML, and deployment.
 
-I specialise in **Machine Learning, Deep Learning, NLP, and Generative AI**.  
-I focus on turning models into useful, end-to-end systems — from research to deployment.
-
----
-
-###  Featured Projects
-
-| Project | Description | Key Results | Tech |
-|---------|-------------|-------------|------|
-| **[RAG Document Q&A Chatbot](https://github.com/SArora2712)** | Retrieval-Augmented Generation chatbot grounded in custom documents | Multi-LLM (OpenAI + Gemini), ChromaDB vector store, zero hallucination focus | LangChain · ChromaDB · OpenAI · Gemini |
-| **[Speech Emotion + Speaker ID](https://github.com/SArora2712/Speech-Emotion-Speaker_Identification_5351)** | Real-time speech emotion recognition + speaker identification | **88.98%** emotion accuracy (Wav2Vec 2.0) · **94%** speaker ID (SVM) | PyTorch · Wav2Vec 2.0 · Librosa · Scikit-learn |
-| **[ReviewSense](https://github.com/SArora2712/Infosys_ReviewSense)** | End-to-end NLP pipeline for customer review intelligence | Actionable sentiment + keyword insights from large unstructured feedback | TF-IDF · NLTK · Sentiment Analysis · Streamlit |
-| **[Context-Aware Article Summarizer](https://github.com/SArora2712/article_Summarizer)** | Audience-adaptive extractive summarizer (4 user profiles) | Live Streamlit app (TXT/PDF/DOCX) + WordCloud + PDF export | TextRank · TF-IDF · NLTK · Streamlit |
-
+**Open to AI/ML Engineer and Software Engineer internships and fresher roles.**
 
 ---
 
-###  Tech Stack
+### Featured Projects
 
-**Languages**  
-`Python` · `C++` · `SQL` · `Java` (Basic)
-
-**Machine Learning & Deep Learning**  
-`PyTorch` · `Scikit-learn` · `Wav2Vec 2.0` · `Transfer Learning` · `Hyperparameter Tuning`
-
-**NLP & Generative AI**  
-`LangChain` · `RAG Pipelines` · `ChromaDB` · `HuggingFace` · `OpenAI API` · `Google Gemini` · `Prompt Engineering` · `TF-IDF` · `TextRank` · `NLTK`
-
-**Tools & Deployment**  
-`Streamlit` · `Git` · `Pandas` · `NumPy` · `Matplotlib` · `Librosa` · `Jupyter` · `AWS Cloud Foundations`
+| Project | What it does | Highlights | Tech |
+| --- | --- | --- | --- |
+| **[InsightAI](https://github.com/SArora2712/REPO_NAME)** · [Live](https://insightai-businessanalytics.streamlit.app) | Multi-agent business analytics copilot | Hybrid RAG (dense + BM25 + rerank), SQL agent with safety layers, critique pass, confidence scoring, 190 tests | LangGraph · RAG · Streamlit · SQL |
+| **[AIHire Pro](https://github.com/SArora2712/REPO_NAME)** | Explainable candidate-job fit scoring | Semantic search, SHAP-to-LLM explanations, resume-gaming detection | Python · SHAP · LLMs |
+| **[FinRisk AI](https://github.com/SArora2712/REPO_NAME)** | FinBERT fine-tuned on SEC risk factors | LoRA/QLoRA, SHAP explainability | PyTorch · HuggingFace · PEFT |
+| **[Speech Emotion + Speaker ID](https://github.com/SArora2712/Speech-Emotion-Speaker_Identification_5351)** | Emotion recognition + speaker identification | **88.98%** emotion accuracy (Wav2Vec 2.0), **94.40%** speaker ID (SVM) | PyTorch · Wav2Vec 2.0 · Librosa |
+| **[Indian Sign Language Recognition](https://github.com/SArora2712/Indian-Sign-Language-recognition-by-WORD)** | Real-time word-level ISL recognition | 82 classes, ~81% accuracy, Flask app | ResNet · PyTorch · Flask |
+| **[ReviewSense](https://github.com/SArora2712/Infosys_ReviewSense)** | NLP pipeline for customer review insights | TF-IDF keywords + sentiment trends | NLTK · Streamlit |
 
 ---
 
-###  Experience
+### Tech Stack
 
-**Machine Learning & NLP Developer Intern**  
-*Infosys Springboard Virtual Internship* · 2026 – 2026
-
-- Built **ReviewSense** — full NLP pipeline that turns thousands of unstructured customer reviews into structured business insights and sentiment trends.
-- Developed TF-IDF keyword extraction that replaced manual analysis workflows.
-- Delivered stakeholder-ready intelligence reports.
+**Languages:** `Python` · `SQL` · `C++` · `Java` (basic)
+**ML/DL:** `PyTorch` · `Scikit-learn` · `HuggingFace` · `PEFT (LoRA/QLoRA)` · `SHAP`
+**LLM & Agents:** `LangGraph` · `LangChain` · `RAG` · `ChromaDB` · `OpenAI` · `Gemini` · `Prompt Engineering`
+**Tools:** `FastAPI` · `Streamlit` · `Git` · `Pandas` · `NumPy` · `AWS Cloud Foundations`
 
 ---
 
-###  Achievements & Certifications
+### Experience
 
-- Built production RAG chatbot independently (LangChain + ChromaDB + multi-provider LLMs)
-- **88.98%** speech emotion recognition accuracy & **94%** speaker identification accuracy
-- Research paper *AI Text Prediction* submitted for faculty publication review
-- HackOrbit Hackathon — Selected for Final Round (ML innovation)
-- Infosys Certified Data Science Foundation
-- AWS Academy Cloud Foundations Graduate
+**Generative AI Intern**, Sunfocus Solutions · Jun to Jul 2026
+- Built InsightAI, a multi-agent analytics copilot (see above).
 
----
-
-### 📫 Connect
-
-- 📧 [sukhmanarora01@gmail.com](mailto:sukhmanarora01@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sukhman-arora-45b5272b6)
-- 📍 Mohali, Punjab
+**ML & NLP Developer Intern**, Infosys Springboard (Virtual) · Feb to Apr 2026
+- Built ReviewSense: TF-IDF keyword extraction and sentiment pipeline for unstructured customer reviews.
 
 ---
 
-**Open to AI/ML & NLP internship opportunities** where I can ship real impact.
+### Certifications and Highlights
+
+- AWS Academy Cloud Foundations · Infosys Certified Data Science Foundation
+- HackOrbit Hackathon: Final Round
+- Research paper on AI text prediction under faculty review
+
+---
+
+📧 sukhmanarora01@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/sukhman-arora-45b5272b6) · 🌐 [Portfolio](https://SArora2712.github.io)
